@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/retovacas/static/css/main.5f361e03.chunk.css",
-    "main.js": "/retovacas/static/js/main.733fc237.chunk.js",
-    "main.js.map": "/retovacas/static/js/main.733fc237.chunk.js.map",
+    "main.js": "/retovacas/static/js/main.cef8d17b.chunk.js",
+    "main.js.map": "/retovacas/static/js/main.cef8d17b.chunk.js.map",
     "runtime-main.js": "/retovacas/static/js/runtime-main.8cc517a1.js",
     "runtime-main.js.map": "/retovacas/static/js/runtime-main.8cc517a1.js.map",
     "static/js/2.9ddb0504.chunk.js": "/retovacas/static/js/2.9ddb0504.chunk.js",
     "static/js/2.9ddb0504.chunk.js.map": "/retovacas/static/js/2.9ddb0504.chunk.js.map",
     "index.html": "/retovacas/index.html",
-    "precache-manifest.ad4096c1ee367a4319e26f2ae79bd0f1.js": "/retovacas/precache-manifest.ad4096c1ee367a4319e26f2ae79bd0f1.js",
+    "precache-manifest.2b93c516a116960da48946dbdc81de6d.js": "/retovacas/precache-manifest.2b93c516a116960da48946dbdc81de6d.js",
     "service-worker.js": "/retovacas/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/retovacas/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.9ddb0504.chunk.js.LICENSE.txt": "/retovacas/static/js/2.9ddb0504.chunk.js.LICENSE.txt",
     "static/media/esther.mp4": "/retovacas/static/media/esther.d9a0e961.mp4",
     "static/media/mariona.mp4": "/retovacas/static/media/mariona.96f24f59.mp4",
     "static/media/papa.mp4": "/retovacas/static/media/papa.0105b6ef.mp4",
-    "static/media/vacas.jpg": "/retovacas/static/media/vacas.0a8130d9.jpg"
+    "static/media/vacas.jpeg": "/retovacas/static/media/vacas.51cde323.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8cc517a1.js",
     "static/js/2.9ddb0504.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.733fc237.chunk.js"
+    "static/js/main.cef8d17b.chunk.js"
   ]
 }
