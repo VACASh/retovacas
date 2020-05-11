@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import imgVacas from "../vacas.jpg"
+import imgVacas from "../vacas.jpeg"
 import videoMariona from "../mariona.mp4"
 import videoEsther from "../esther.mp4"
 import videoPapa from "../papa.mp4"
