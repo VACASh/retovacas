@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7868b2d9c7c094385e977f8de0e347ff",
+    "revision": "9ae0500553fb25ec313d6812573d9ede",
     "url": "/retovacas/index.html"
   },
   {
-    "revision": "181724f6d94aa188fb15",
+    "revision": "2b589c10e96888ea19b1",
     "url": "/retovacas/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retovacas/static/js/2.9ddb0504.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "181724f6d94aa188fb15",
-    "url": "/retovacas/static/js/main.cef8d17b.chunk.js"
+    "revision": "2b589c10e96888ea19b1",
+    "url": "/retovacas/static/js/main.43bff91b.chunk.js"
   },
   {
     "revision": "3066f212a4eadc773665",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retovacas/static/media/papa.0105b6ef.mp4"
   },
   {
-    "revision": "51cde3230b9b79db6013f1d38a53748b",
-    "url": "/retovacas/static/media/vacas.51cde323.jpeg"
+    "revision": "ab1aaeb5699f68b301ce6168ec3bb7a9",
+    "url": "/retovacas/static/media/vacas.ab1aaeb5.jpg"
   }
 ]);
