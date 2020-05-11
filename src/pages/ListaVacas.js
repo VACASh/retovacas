@@ -19,7 +19,7 @@ export class ListaVacas extends Component {
                     <div className="card-header">
 
 
-                        <h4 className="card-title">Retos arina familia Vacas</h4>
+                        <h4 className="card-title">Retos harina familia Vacas</h4>
                     </div>
                     <h5 className="card-title bg-light">Ya retados</h5>
                     <ul className="list-group rounded bg-light">
