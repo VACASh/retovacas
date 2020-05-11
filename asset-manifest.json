@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/retovacas/static/css/main.5f361e03.chunk.css",
-    "main.js": "/retovacas/static/js/main.74d52102.chunk.js",
-    "main.js.map": "/retovacas/static/js/main.74d52102.chunk.js.map",
+    "main.js": "/retovacas/static/js/main.733fc237.chunk.js",
+    "main.js.map": "/retovacas/static/js/main.733fc237.chunk.js.map",
     "runtime-main.js": "/retovacas/static/js/runtime-main.8cc517a1.js",
     "runtime-main.js.map": "/retovacas/static/js/runtime-main.8cc517a1.js.map",
     "static/js/2.9ddb0504.chunk.js": "/retovacas/static/js/2.9ddb0504.chunk.js",
     "static/js/2.9ddb0504.chunk.js.map": "/retovacas/static/js/2.9ddb0504.chunk.js.map",
     "index.html": "/retovacas/index.html",
-    "precache-manifest.e35b3c2ba0d8938ba3e882bfa9c862c2.js": "/retovacas/precache-manifest.e35b3c2ba0d8938ba3e882bfa9c862c2.js",
+    "precache-manifest.ad4096c1ee367a4319e26f2ae79bd0f1.js": "/retovacas/precache-manifest.ad4096c1ee367a4319e26f2ae79bd0f1.js",
     "service-worker.js": "/retovacas/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/retovacas/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.9ddb0504.chunk.js.LICENSE.txt": "/retovacas/static/js/2.9ddb0504.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.8cc517a1.js",
     "static/js/2.9ddb0504.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.74d52102.chunk.js"
+    "static/js/main.733fc237.chunk.js"
   ]
 }

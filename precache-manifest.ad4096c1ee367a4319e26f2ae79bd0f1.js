@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec0fdf7aadf1a994a893602f790ac900",
+    "revision": "62fffa2ff55f11c6dadbb8d1dc0b4d07",
     "url": "/retovacas/index.html"
   },
   {
-    "revision": "51fa367c20b7a01b5ac4",
+    "revision": "bf7b0d915b04ebae3b1e",
     "url": "/retovacas/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retovacas/static/js/2.9ddb0504.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51fa367c20b7a01b5ac4",
-    "url": "/retovacas/static/js/main.74d52102.chunk.js"
+    "revision": "bf7b0d915b04ebae3b1e",
+    "url": "/retovacas/static/js/main.733fc237.chunk.js"
   },
   {
     "revision": "3066f212a4eadc773665",
