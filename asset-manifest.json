@@ -1,26 +1,32 @@
 {
   "files": {
     "main.css": "/retovacas/static/css/main.5f361e03.chunk.css",
-    "main.js": "/retovacas/static/js/main.43bff91b.chunk.js",
-    "main.js.map": "/retovacas/static/js/main.43bff91b.chunk.js.map",
+    "main.js": "/retovacas/static/js/main.9972a2a8.chunk.js",
+    "main.js.map": "/retovacas/static/js/main.9972a2a8.chunk.js.map",
     "runtime-main.js": "/retovacas/static/js/runtime-main.8cc517a1.js",
     "runtime-main.js.map": "/retovacas/static/js/runtime-main.8cc517a1.js.map",
-    "static/js/2.9ddb0504.chunk.js": "/retovacas/static/js/2.9ddb0504.chunk.js",
-    "static/js/2.9ddb0504.chunk.js.map": "/retovacas/static/js/2.9ddb0504.chunk.js.map",
+    "static/js/2.07f53391.chunk.js": "/retovacas/static/js/2.07f53391.chunk.js",
+    "static/js/2.07f53391.chunk.js.map": "/retovacas/static/js/2.07f53391.chunk.js.map",
     "index.html": "/retovacas/index.html",
-    "precache-manifest.6dc7329e99b1772d11a15876f1d17d80.js": "/retovacas/precache-manifest.6dc7329e99b1772d11a15876f1d17d80.js",
+    "precache-manifest.e85ce4dc96641c96d7af2a793bf1763b.js": "/retovacas/precache-manifest.e85ce4dc96641c96d7af2a793bf1763b.js",
     "service-worker.js": "/retovacas/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/retovacas/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9ddb0504.chunk.js.LICENSE.txt": "/retovacas/static/js/2.9ddb0504.chunk.js.LICENSE.txt",
+    "static/js/2.07f53391.chunk.js.LICENSE.txt": "/retovacas/static/js/2.07f53391.chunk.js.LICENSE.txt",
+    "static/media/carlosgrau.mp4": "/retovacas/static/media/carlosgrau.074d9968.mp4",
     "static/media/esther.mp4": "/retovacas/static/media/esther.d9a0e961.mp4",
+    "static/media/juanpe.mp4": "/retovacas/static/media/juanpe.8835a2d7.mp4",
+    "static/media/julian.mp4": "/retovacas/static/media/julian.6906750e.mp4",
+    "static/media/laucrislau.mp4": "/retovacas/static/media/laucrislau.8d785367.mp4",
+    "static/media/luci.mp4": "/retovacas/static/media/luci.54f9d471.mp4",
     "static/media/mariona.mp4": "/retovacas/static/media/mariona.96f24f59.mp4",
     "static/media/papa.mp4": "/retovacas/static/media/papa.0105b6ef.mp4",
+    "static/media/sergio.mp4": "/retovacas/static/media/sergio.46234c67.mp4",
     "static/media/vacas.jpg": "/retovacas/static/media/vacas.ab1aaeb5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8cc517a1.js",
-    "static/js/2.9ddb0504.chunk.js",
+    "static/js/2.07f53391.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.43bff91b.chunk.js"
+    "static/js/main.9972a2a8.chunk.js"
   ]
 }
